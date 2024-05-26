@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="android_atc_pizza_shop">Android ATC Pizza Shop</string>
+    <string name="full_name">Nama Penuh: </string>
+    <string name="phone_number">Nombor Telefon: </string>
+</resources>
